@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/MINIMAL-4ECDC4?style=flat-square"/>
 </td>
 </tr>
-<tr># 🔍 **LexiScan** - Advanced 8-Direction Word Search Solver
+
 
 <div align="center">
 
