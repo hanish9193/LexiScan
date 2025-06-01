@@ -199,19 +199,8 @@
 
 </div>
 
-### 🚀 **Option 1: Instant Magic** ✨
-```bash
-# 🎮 Try it instantly in your browser - NO SETUP REQUIRED!
-https://lexiscan-demo.vercel.app
-```
 
-<div align="center">
-
-![Demo Button](https://img.shields.io/badge/🎮_PLAY_NOW-Live_Demo-FF6B6B?style=for-the-badge&labelColor=2B2D42&logo=googlechrome&logoColor=white)
-
-</div>
-
-### 🐍 **Option 2: Python Power** 
+### 🐍 **Option 1: Python Power** 
 ```bash
 # Clone and unleash the Python beast
 git clone https://github.com/hanishkumar/lexiscan.git
@@ -220,13 +209,13 @@ python cli_solver.py
 
 # 🎯 Example output:
 # ✅ Found "PYTHON" at (0,0) going DOWN-RIGHT: [(0,0), (1,1), (2,2), (3,3), (4,4), (5,5)]
-# ⚡ Solved in 0.003 seconds!
+# ⚡ Solvd in 0.003 seconds!
 ```
 
-### ⚛️ **Option 3: React Revolution**
+### ⚛️ **Option 2: React Revolution**
 ```bash
 # Advanced React version with superpowers
-cd website_advanced
+cd LexiScan
 npm install
 npm run dev
 # 🌐 Opens http://localhost:3000 with mind-blowing UI
@@ -237,39 +226,6 @@ npm run dev
 <img src="https://user-images.githubusercontent.com/74038190/212284094-1a3a2722-3d41-4dc2-b0f8-85ab77bfa8c9.gif" width="200">
 
 </div>
-
-## 📂 **INSIDE THE MACHINE** 🔧
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99dd5dcaa055.gif" width="300">
-
-</div>
-
-```
-🏗️ LexiScan/
-├── 🐍 cli_solver.py          # Python CLI powerhouse
-├── 🌐 website_basic/         # HTML + Vanilla JS magic
-│   ├── 📄 index.html
-│   ├── 🎨 style.css
-│   └── ⚡ script.js
-├── ⚛️ website_advanced/       # React + Tailwind beast
-│   ├── 📁 src/
-│   ├── 🌍 public/
-│   ├── 📦 package.json
-│   └── 📖 README.md
-├── 📊 examples/              # Mind-bending sample grids
-│   ├── 🟢 easy_puzzle.txt
-│   ├── 🟡 medium_puzzle.txt
-│   └── 🔴 hard_puzzle.txt
-├── 🧪 tests/                 # Bulletproof unit tests
-│   └── 🔬 test_solver.py
-├── 📸 screenshots/           # Visual feast
-│   ├── 🖼️ Screenshot 2025-06-01 174053.png
-│   ├── 🖼️ Screenshot 2025-06-01 175142.png
-│   └── 🎬 lexiscann.gif
-└── 📚 docs/                  # Knowledge vault
-```
 
 <div align="center">
 
