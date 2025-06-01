@@ -36,7 +36,19 @@
 
 <br/>
 
-![LexiScan Demo](./screenshots/lexiscann.gif)
+<div align="center">
+
+### 🎬 **LEXISCAN IN ACTION** ✨
+
+<img src="./screenshots/lexiscann.gif" alt="LexiScan Live Demo - Watch the Magic Happen" width="800" style="border-radius: 20px; box-shadow: 0 15px 35px rgba(102, 126, 234, 0.4); border: 3px solid #667eea;">
+
+<br/>
+
+<img src="https://img.shields.io/badge/🎭-LIVE_MAGIC-FF6B6B?style=for-the-badge&labelColor=2B2D42"/>
+<img src="https://img.shields.io/badge/⚡-REAL_TIME-FFD700?style=for-the-badge&labelColor=2B2D42"/>
+<img src="https://img.shields.io/badge/🎯-PERFECT_ACCURACY-32CD32?style=for-the-badge&labelColor=2B2D42"/>
+
+</div>
 
 <br/>
 
