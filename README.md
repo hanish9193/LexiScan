@@ -32,7 +32,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=LexiScan&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI-Powered%20Word%20Search%20Solver&descAlignY=55&descSize=20)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🔍+Find+words+in+ALL+8+directions;🧠+AI-powered+pattern+recognition;⚡+Lightning+fast+algorithm;🎯+Pinpoint+accuracy+guaranteed)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🔍+Find+words+in+ALL+8+directions;🧠+Powerful+pattern+recognition;⚡+Lightning+fast+algorithm;🎯+Pinpoint+accuracy+guaranteed)](https://git.io/typing-svg)
 
 <br/>
 
